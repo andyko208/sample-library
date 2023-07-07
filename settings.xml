@@ -1,0 +1,13 @@
+
+<settings>
+
+    <localRepository>/maven-repo</localRepository>
+
+    <servers>
+        <server>
+            <id>ossrh</id>
+            <username>ko112@purdue.edu</username>
+            <password>{x3kuJyQdBcEHESjIM/ahCJ/OMiA7JZkYUso3anZgtdc=}</password>
+        </server>
+    </servers>
+</settings>
